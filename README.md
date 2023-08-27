@@ -1,1 +1,1 @@
-# arr_name
+# word_counter
